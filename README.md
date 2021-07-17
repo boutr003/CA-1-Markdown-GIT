@@ -8,10 +8,10 @@
 
 * boutr003@mymail.unisa.edu.au
 
-* CA 1 Markdown + GIT
+* Bachelor of IT (Software Development)
 
 <!-- Images -->
 ![Kismet Image](https://upload.wikimedia.org/wikipedia/commons/0/03/Kismet-IMG_6007-black.jpg)
 
 <!-- Links -->
-[Kismet Link](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg)
+[Image Link](https://commons.wikimedia.org/wiki/File:Kismet-IMG_6007-black.jpg)
